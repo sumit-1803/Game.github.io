@@ -117,3 +117,11 @@ header {
   nav a:after {content: none;}
   }
 /* navbar ends */
+
+button{
+    padding: 7px;
+    width: 50px;
+    color: black;
+    border: 2px solid;
+    font-size: medium;
+}
